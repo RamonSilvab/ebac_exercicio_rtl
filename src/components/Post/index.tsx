@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/alt-text */
 import styles from './Post.module.css';
 
 import PostComments from '../PostComments';
